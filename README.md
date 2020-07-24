@@ -1,15 +1,14 @@
 # project1
 The first group project for Data Analytics Class
 
-Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
-Write this as a brief summary of your interests and intent, including:
+Goal:
+Examine the top songs from the Billboard 100 spanning from 1958 to 2019 as well as Spotify data and see if there are characteristics that these songs share. Are these characteristics propelling certain songs to become hits? Through data cleaning and plotting what we find, we hope to find if there are any correlations that support the questions that follow.
 
-The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
+Questions:
+Overarching Question : What makes a top hit a top hit?
+1) Is there a similar attribute (i.e valence/energy/danceability) that a large portion of the songs have?
+2) Is there a particular genre that dominates the top hits playlist?
+3) Is there a connection between the hits globally and what countries it ‘blows up’ in? (i.e if it ‘blows up’ in the USA, is it more likely to be a hit in the global playlist)
 
-The kinds of questions you'll be asking of that data
+The main files are music and CountryComparison to cover the work done.  The final presentation is uploaded along with all the graphs that we created.
 
-Possible source for such data
-
-In other words, write down what kind of data you plan to work with, and what kinds of questions you'd like to ask of it. This constitutes your Project Proposal/Outline, and should look something like this:
-
-Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
